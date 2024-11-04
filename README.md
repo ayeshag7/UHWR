@@ -1,0 +1,1 @@
+A repository containing experimental model training code for the convoultional transformer architecture on the UHWR dataset.
